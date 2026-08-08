@@ -1,4 +1,4 @@
-# GitLab Server vs GitLab Runner — কনসেপ্ট ক্লিয়ার করা
+# GitLab Server vs GitLab Runner 
 
 এই ডকুমেন্টে GitLab Server এবং GitLab Runner এই দুইটা জিনিসের মধ্যে পার্থক্য, তাদের কাজ, এবং তারা কীভাবে একসাথে কাজ করে — সব বিস্তারিতভাবে ব্যাখ্যা করা হয়েছে।
 
